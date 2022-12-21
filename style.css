@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: burlywood;
+}
+
+h2{
+    color: brown;
+}
+
+.ordered{
+    color: rgb(26, 75, 26)
+}
+
+#dislikes{
+    color: rgb(27, 27, 95)
+}
